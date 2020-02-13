@@ -5,9 +5,10 @@ Zona de organización para el grupo de C++ del GUL
 
 Toda aquella persona que forme parte del grupo de C++ del GUL deberá seguir las siguientes normas:
 
-1. No se proferirán insultos haciendo otras personas, sean o no del grupo.
+1. No se proferirán insultos hacia otras personas, sean o no del grupo, ni hacia organizaciones ni aplicaciones.
 2. No se fomentará el odio hacia personas, organizaciones o aplicaciones.
 3. Cualquier implementación de software que se haga para el grupo deberá respetar [las tres leyes de la robótica](https://es.wikipedia.org/wiki/Tres_leyes_de_la_rob%C3%B3tica).
+4. Se respetarán las opiniones de los demás.
 
 ## Canal de Telegram
 
