@@ -9,6 +9,10 @@ Toda aquella persona que forme parte del grupo de C++ del GUL deberá seguir las
 2. No se fomentará el odio hacia personas, organizaciones o aplicaciones.
 3. Cualquier implementación de software que se haga para el grupo deberá respetar [las tres leyes de la robótica](https://es.wikipedia.org/wiki/Tres_leyes_de_la_rob%C3%B3tica).
 4. Se respetarán las opiniones de los demás.
+5. En este grupo se respetan las leyes de la termodinámica.
+6. Sí.
+7. No.
+8. Sed felices.
 
 ## Canal de Telegram
 
@@ -22,7 +26,7 @@ Para elegir el tema del mes este deberá ser discutido previamente en el canal d
 
 Los temas que se van a tratar durante 2020 son:
 
-- [ ] febrero: 
+- [ ] febrero:
 - [ ] marzo:
 - [ ] abril:
 - [ ] mayo:
@@ -33,3 +37,7 @@ Los temas que se van a tratar durante 2020 son:
 - [ ] octubre:
 - [ ] noviembre:
 - [ ] diciembre:
+
+# Protección de datos
+
+Desde el GUL, y más concretamente desde el grupo de C++, no realizamos ningún tipo de tratamiento de datos de usuarios porque no los almacenamos. Al usar Telegram para comunicarnos es recomendable conocer su política de privacidad ([Política de privacidad de Telegram](https://telegram.org/privacy)).
