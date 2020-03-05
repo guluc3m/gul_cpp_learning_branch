@@ -26,8 +26,8 @@ Para elegir el tema del mes este deberá ser discutido previamente en el canal d
 
 Los temas que se van a tratar durante 2020 son:
 
-- [ ] febrero: multitarea
-- [ ] marzo:
+- [x] febrero: multitarea
+- [ ] marzo: metaprogramación
 - [ ] abril:
 - [ ] mayo:
 - [ ] junio:
